@@ -1,0 +1,14 @@
+body {
+    background-color: lightblue;
+    font-family: Arial, sans-serif;
+}
+
+p {
+    color: white;
+    font-size: 18px;
+}
+
+label {
+    color: white;
+    font-size: 18px;
+}
